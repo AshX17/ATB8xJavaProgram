@@ -12,6 +12,11 @@ public class lab006 {
         System.out.println(s);
         byte o = 100;
         System.out.println(o);
+        int p = 1000;
+        long phone_number = 9664642621l;
+        System.out.println(phone_number);
+        System.out.println(p);
+
     }
 }
 
