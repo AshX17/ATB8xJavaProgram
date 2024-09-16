@@ -16,6 +16,16 @@ public class lab006 {
         long phone_number = 9664642621l;
         System.out.println(phone_number);
         System.out.println(p);
+        char grade = 'A';
+        float f1 = 2.12f;
+        float f2 = 2.13F;
+        double u = 677999.224555;
+        System.out.println(grade);
+        System.out.println(f1);
+        System.out.println(f2);
+        System.out.println(u);
+
+
 
     }
 }
