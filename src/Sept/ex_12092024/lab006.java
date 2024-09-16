@@ -25,6 +25,16 @@ public class lab006 {
         System.out.println(f2);
         System.out.println(u);
 
+        /* byte = 100;
+        * short = 128;
+        * int = 1000;
+        * long = 2839393l;
+        * char = 'A'
+        * float = 12.32f;
+        * double = 123455669.33455;
+        **/
+
+
 
 
     }
