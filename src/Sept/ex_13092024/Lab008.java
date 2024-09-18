@@ -1,5 +1,5 @@
 package Sept.ex_13092024;
-
+// Assignment 1 _ 13th Sep'24
 public class Lab008 {
     public static void main(String[] args) {
         System.out.println("9 x 1 = 9");
