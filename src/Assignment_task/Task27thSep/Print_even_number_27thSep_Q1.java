@@ -1,4 +1,4 @@
-package Assignment_task;
+package Assignment_task.Task27thSep;
 
 public class Print_even_number_27thSep_Q1 {
     public static void main(String[] args) {

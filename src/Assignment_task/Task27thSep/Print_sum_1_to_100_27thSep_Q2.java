@@ -1,4 +1,4 @@
-package Assignment_task;
+package Assignment_task.Task27thSep;
 
 public class Print_sum_1_to_100_27thSep_Q2 {
     public static void main(String[] args) {
